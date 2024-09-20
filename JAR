@@ -1,0 +1,2 @@
+jar cf wc.jar -C src/ .
+hadoop jar wc.jar WordCount /input /output
