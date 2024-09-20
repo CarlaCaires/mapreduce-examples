@@ -1,0 +1,4 @@
+/mapreduce-examples
+    /src
+        WordCount.java
+    README.md
